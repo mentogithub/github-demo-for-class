@@ -12,15 +12,15 @@ Testing GitHub
 *  Order lots of cookies :cookies:
   * Learned lots about cookies
   
- *** Caution, there are ore cookies*** 
+ *** Caution, there are more cookies*** 
 
 1. Beware of cookie calories
 
-Go to [Githob Education site[  (http://www.bc.edu)
+Go to [Github Education site]  (http://www.bc.edu)
 
- # Name  | Title
-Kyle | Developer
-Staff | Librarian
+# Name  | Title
+|Kyle | Developer
+|Staff|  Librarian
 
  
  
